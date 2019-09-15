@@ -1,6 +1,6 @@
 package com.github.reader.app.model.manager;
 
-import com.github.reader.pdf.model.OutlineItem;
+import com.artifex.mupdfdemo.OutlineItem;
 
 public class OutlineManager {
 	public OutlineItem items[];

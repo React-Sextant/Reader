@@ -15,8 +15,8 @@ import android.widget.AdapterView;
 import android.widget.Scroller;
 
 import com.github.reader.R;
-import com.github.reader.pdf.model.Hit;
-import com.github.reader.pdf.model.Stepper;
+import com.artifex.mupdfdemo.Hit;
+import com.artifex.mupdfdemo.Stepper;
 import com.github.reader.pdf.ui.adapater.MuPDFPageAdapter;
 import com.github.reader.utils.Constants;
 import com.github.reader.utils.LogUtils;

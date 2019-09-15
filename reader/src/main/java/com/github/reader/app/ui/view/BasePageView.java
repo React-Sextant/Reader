@@ -17,10 +17,10 @@ import android.widget.ProgressBar;
 
 import com.github.reader.R;
 import com.github.reader.app.model.manager.TextSelector;
-import com.github.reader.pdf.model.AsyncTask;
-import com.github.reader.pdf.model.CancellableAsyncTask;
-import com.github.reader.pdf.model.CancellableTaskDefinition;
-import com.github.reader.pdf.model.TextWord;
+import com.artifex.mupdfdemo.AsyncTask;
+import com.artifex.mupdfdemo.CancellableAsyncTask;
+import com.artifex.mupdfdemo.CancellableTaskDefinition;
+import com.artifex.mupdfdemo.TextWord;
 import com.github.reader.utils.Constants;
 import com.github.reader.utils.LogUtils;
 

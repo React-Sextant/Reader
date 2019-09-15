@@ -10,8 +10,8 @@ import android.widget.TextView;
 
 import com.github.reader.R;
 import com.github.reader.app.ui.adapater.CatalogAdapter;
-import com.github.reader.pdf.model.OutlineActivityData;
-import com.github.reader.pdf.model.OutlineItem;
+import com.artifex.mupdfdemo.OutlineActivityData;
+import com.artifex.mupdfdemo.OutlineItem;
 import com.github.reader.utils.Constants;
 import com.github.reader.utils.ScreenUtils;
 

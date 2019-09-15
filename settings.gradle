@@ -1,1 +1,1 @@
-include ':reader', ':reader'
+include ':reader'

@@ -9,8 +9,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 
-import com.github.reader.pdf.model.AsyncTask;
-import com.github.reader.pdf.model.MuPDFCore;
+import com.artifex.mupdfdemo.AsyncTask;
+import com.artifex.mupdfdemo.MuPDFCore;
 import com.github.reader.pdf.ui.view.PDFPageView;
 import com.github.reader.utils.LogUtils;
 

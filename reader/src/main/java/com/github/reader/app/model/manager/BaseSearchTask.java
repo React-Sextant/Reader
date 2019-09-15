@@ -9,8 +9,8 @@ import android.os.Handler;
 
 import com.github.reader.R;
 import com.github.reader.app.model.entity.BaseSearchTaskResult;
-import com.github.reader.pdf.model.AsyncTask;
-import com.github.reader.pdf.model.MuPDFCore;
+import com.artifex.mupdfdemo.AsyncTask;
+import com.artifex.mupdfdemo.MuPDFCore;
 
 class ProgressDialogX extends ProgressDialog {
 	public ProgressDialogX(Context context) {

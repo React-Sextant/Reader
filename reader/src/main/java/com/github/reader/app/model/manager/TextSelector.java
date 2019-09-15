@@ -2,7 +2,7 @@ package com.github.reader.app.model.manager;
 
 import android.graphics.RectF;
 
-import com.github.reader.pdf.model.TextWord;
+import com.artifex.mupdfdemo.TextWord;
 import com.github.reader.utils.LogUtils;
 
 import java.util.ArrayList;

@@ -6,7 +6,7 @@ import android.view.View;
 
 import com.github.reader.app.ui.view.BaseDocView;
 import com.github.reader.app.ui.view.IBaseDocView;
-import com.github.reader.pdf.model.SearchTaskResult;
+import com.artifex.mupdfdemo.SearchTaskResult;
 import com.github.reader.utils.LogUtils;
 
 /**

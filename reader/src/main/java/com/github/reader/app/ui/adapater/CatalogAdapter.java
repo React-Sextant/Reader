@@ -8,7 +8,7 @@ import android.widget.BaseAdapter;
 import android.widget.TextView;
 
 import com.github.reader.R;
-import com.github.reader.pdf.model.OutlineItem;
+import com.artifex.mupdfdemo.OutlineItem;
 
 /**
  * Created by qiaodong on 18-1-23.

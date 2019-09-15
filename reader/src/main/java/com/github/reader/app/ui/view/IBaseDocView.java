@@ -4,8 +4,8 @@ import android.graphics.PointF;
 import android.graphics.RectF;
 
 import com.github.reader.app.model.entity.BaseAnnotation;
-import com.github.reader.pdf.model.Hit;
-import com.github.reader.pdf.model.TextWord;
+import com.artifex.mupdfdemo.Hit;
+import com.artifex.mupdfdemo.TextWord;
 
 
 public interface IBaseDocView {

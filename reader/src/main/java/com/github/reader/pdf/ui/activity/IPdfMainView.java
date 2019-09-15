@@ -3,7 +3,7 @@ package com.github.reader.pdf.ui.activity;
 import android.content.Intent;
 
 import com.github.reader.app.base.IBaseDocumentView;
-import com.github.reader.pdf.model.MuPDFAlert;
+import com.artifex.mupdfdemo.MuPDFAlert;
 
 /**
  * 主屏V的接口
